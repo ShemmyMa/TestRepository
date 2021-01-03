@@ -1,5 +1,5 @@
 # TestRepository
-## I am a starter, just try to learn code. 
+I am a starter, just try to learn code. 
 
 This is test repository.
 
